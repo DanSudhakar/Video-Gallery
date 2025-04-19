@@ -1,0 +1,41 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    padding: 20px;
+}
+
+.video-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+
+.sample-video {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border: none;
+}
+
+.text-section {
+    text-align: center;
+    font: 400 18px/26px "Open Sans", arial;
+    margin-top: 20px; 
+}
+
+.text-section h2 {
+    font: 400 36px/44px "Open Sans", arial;
+}
+
+.highlight {
+    color: #86BC25;
+}
+
+.text-section p {
+    margin-top: 10px;
+    font: 400 20px/28px "Open Sans", arial; 
+}

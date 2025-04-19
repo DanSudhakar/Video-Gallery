@@ -1,0 +1,29 @@
+/* AppBar Styles */
+.app-title {
+    flex-grow: 1;
+  }
+  
+  /* Navigation Links */
+  .nav-links {
+    display: flex;
+    gap: 16px;
+  }
+  
+  /* Welcome Section */
+  .welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    text-align: center;
+  }
+  
+  .welcome-text {
+    font-weight: bold;
+    margin-bottom: 32px;
+  }
+  
+  .search-bar {
+    max-width: 500px;
+  }
