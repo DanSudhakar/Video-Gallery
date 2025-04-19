@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Video-Gallery/static/css/main.34433ca7.css",
+    "main.js": "/Video-Gallery/static/js/main.68f61396.js",
+    "static/media/Video Hub.png": "/Video-Gallery/static/media/Video Hub.a92b6edd0bafdfb1325e.png",
+    "index.html": "/Video-Gallery/index.html",
+    "main.34433ca7.css.map": "/Video-Gallery/static/css/main.34433ca7.css.map",
+    "main.68f61396.js.map": "/Video-Gallery/static/js/main.68f61396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34433ca7.css",
+    "static/js/main.68f61396.js"
+  ]
+}
